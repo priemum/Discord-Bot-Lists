@@ -1,7 +1,7 @@
 # Discord Bot list's
 
 This list features every really every botlist out there that is working as of now.
-
+        
 ## Botlists:
 
 | Name              | Website                         | Discord                    | Status  |
